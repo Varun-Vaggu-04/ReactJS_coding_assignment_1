@@ -1,0 +1,37 @@
+.list-item {
+  display: flex;
+  align-items: center;
+}
+
+.time {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-right: 40px;
+}
+
+.domain-logo {
+  text-align: start;
+  width: 25px;
+  margin-right: 15px;
+}
+
+.title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.domain-url {
+  color: #64748b;
+  font-family: 'Roboto';
+  margin-right: auto;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
